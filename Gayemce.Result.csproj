@@ -9,22 +9,21 @@
     <Version>8.0.0</Version>
     <Description>It is designed for improving error handling and response consistency while developing applications. It is a .NET library intended to encapsulate processing outcomes with support for success, failure, and associated HTTP status code.</Description>
     <Authors>Gaye Tekin</Authors>
-    <Copyright>© 2024 Gaye Tekin All Rights Reserved.</Copyright>
+    <Copyright>© 2024 Gaye Tekin. All rights reserved.</Copyright>
     <PackageIcon>icon.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageTags>result</PackageTags>
+    <RepositoryType></RepositoryType>
+    <RepositoryUrl>https://github.com/gayemce/Gayemce.Result.git</RepositoryUrl>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="LICENSE" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Compile Include="LICENSE" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Update="icon.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Update="LICENSE">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>

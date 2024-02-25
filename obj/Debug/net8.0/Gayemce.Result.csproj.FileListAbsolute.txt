@@ -1,0 +1,12 @@
+C:\Users\Win10\Desktop\WorkSpace\Libraries\Gayemce.Result\obj\Debug\net8.0\Gayemce.Result.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Desktop\WorkSpace\Libraries\Gayemce.Result\obj\Debug\net8.0\Gayemce.Result.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\WorkSpace\Libraries\Gayemce.Result\obj\Debug\net8.0\Gayemce.Result.AssemblyInfo.cs
+C:\Users\Win10\Desktop\WorkSpace\Libraries\Gayemce.Result\obj\Debug\net8.0\Gayemce.Result.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\WorkSpace\Libraries\Gayemce.Result\obj\Debug\net8.0\Gayemce.Result.sourcelink.json
+C:\Users\Win10\Desktop\WorkSpace\Libraries\Gayemce.Result\bin\Debug\net8.0\Gayemce.Result.deps.json
+C:\Users\Win10\Desktop\WorkSpace\Libraries\Gayemce.Result\bin\Debug\net8.0\Gayemce.Result.dll
+C:\Users\Win10\Desktop\WorkSpace\Libraries\Gayemce.Result\bin\Debug\net8.0\Gayemce.Result.pdb
+C:\Users\Win10\Desktop\WorkSpace\Libraries\Gayemce.Result\obj\Debug\net8.0\Gayemce.Result.dll
+C:\Users\Win10\Desktop\WorkSpace\Libraries\Gayemce.Result\obj\Debug\net8.0\refint\Gayemce.Result.dll
+C:\Users\Win10\Desktop\WorkSpace\Libraries\Gayemce.Result\obj\Debug\net8.0\Gayemce.Result.pdb
+C:\Users\Win10\Desktop\WorkSpace\Libraries\Gayemce.Result\obj\Debug\net8.0\ref\Gayemce.Result.dll

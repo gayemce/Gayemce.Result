@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Win10\\Desktop\\WorkSpace\\GitHub\\Gayemce.Result\\Gayemce.Result.csproj": {}
+    "C:\\Users\\Win10\\Desktop\\WorkSpace\\Libraries\\Gayemce.Result\\Gayemce.Result.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Win10\\Desktop\\WorkSpace\\GitHub\\Gayemce.Result\\Gayemce.Result.csproj": {
+    "C:\\Users\\Win10\\Desktop\\WorkSpace\\Libraries\\Gayemce.Result\\Gayemce.Result.csproj": {
       "version": "8.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Win10\\Desktop\\WorkSpace\\GitHub\\Gayemce.Result\\Gayemce.Result.csproj",
+        "projectUniqueName": "C:\\Users\\Win10\\Desktop\\WorkSpace\\Libraries\\Gayemce.Result\\Gayemce.Result.csproj",
         "projectName": "Gayemce.Result",
-        "projectPath": "C:\\Users\\Win10\\Desktop\\WorkSpace\\GitHub\\Gayemce.Result\\Gayemce.Result.csproj",
+        "projectPath": "C:\\Users\\Win10\\Desktop\\WorkSpace\\Libraries\\Gayemce.Result\\Gayemce.Result.csproj",
         "packagesPath": "C:\\Users\\Win10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Win10\\Desktop\\WorkSpace\\GitHub\\Gayemce.Result\\obj\\",
+        "outputPath": "C:\\Users\\Win10\\Desktop\\WorkSpace\\Libraries\\Gayemce.Result\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Win10\\AppData\\Roaming\\NuGet\\NuGet.Config",
