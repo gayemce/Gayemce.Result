@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>Result Pattern</Title>
-    <Version>8.0.0</Version>
+    <Version>8.0.1</Version>
     <Description>It is designed for improving error handling and response consistency while developing applications. It is a .NET library intended to encapsulate processing outcomes with support for success, failure, and associated HTTP status code.</Description>
     <Authors>Gaye Tekin</Authors>
     <Copyright>© 2024 Gaye Tekin. All rights reserved.</Copyright>
@@ -16,6 +16,8 @@
     <RepositoryType></RepositoryType>
     <RepositoryUrl>https://github.com/gayemce/Gayemce.Result.git</RepositoryUrl>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackAsTool>False</PackAsTool>
+    <PackageProjectUrl>https://github.com/gayemce/Gayemce.Result</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
