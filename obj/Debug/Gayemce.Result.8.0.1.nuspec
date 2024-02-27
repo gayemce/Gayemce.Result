@@ -13,7 +13,7 @@
     <description>It is designed for improving error handling and response consistency while developing applications. It is a .NET library intended to encapsulate processing outcomes with support for success, failure, and associated HTTP status code.</description>
     <copyright>© 2024 Gaye Tekin. All rights reserved.</copyright>
     <tags>result</tags>
-    <repository type="git" url="https://github.com/gayemce/Gayemce.Result.git" commit="aa036fa0a2b305b705720a113e123f1cefc1ac12" />
+    <repository type="git" url="https://github.com/gayemce/Gayemce.Result.git" commit="8778858c3cd9126b848e9411e256aff8f53b9f38" />
     <dependencies>
       <group targetFramework="net8.0" />
     </dependencies>

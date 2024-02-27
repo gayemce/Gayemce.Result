@@ -5,7 +5,6 @@ public sealed class Result<T>
 {
     public T? Data { get; set; }
     public List<string>? ErrorMessages { get; set; }
-    public string? ErrorMessage { get; set; }
     public bool IsSuccesful { get; set; } = true;
     public int StatusCode { get; set; } = (int)HttpStatusCode.OK;
 
@@ -25,7 +24,7 @@ public sealed class Result<T>
     {
         IsSuccesful = false;
         StatusCode = statusCode;
-        ErrorMessage = errorMessage;
+        ErrorMessages = new() { errorMessage };
     }
 
     public static implicit operator Result<T>(T data)

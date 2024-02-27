@@ -18,7 +18,7 @@ using System.Reflection;
     "ping applications. It is a .NET library intended to encapsulate processing outco" +
     "mes with support for success, failure, and associated HTTP status code.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("8.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("8.0.1+aa036fa0a2b305b705720a113e123f1cefc1ac12")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("8.0.1+8778858c3cd9126b848e9411e256aff8f53b9f38")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gayemce.Result")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gayemce.Result")]
 [assembly: System.Reflection.AssemblyVersionAttribute("8.0.1.0")]
