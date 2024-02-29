@@ -25,7 +25,6 @@ dotnet add package Gayemce.Result
 
 ## Usage
 - **For a successful operation**, instantiate a Result object with the desired data:
-
 ```chsarp
 var successResult = new Result<string>("Operation successful.");
 ```
@@ -36,21 +35,34 @@ Result<string> result = "Operation successful.";
 ```
 
 - **For failures**, create a Result object with an HTTP status code and error messages:
-
 ```chsarp
 var errorResult = new Result<string>(400, new List<string> { "Error 1", "Error 2" });
 ```
 
 - **Or** use implicit conversion from error details:
-
 ```chsarp
 Result<string> result = (400, new List<string> { "Error 1", "Error 2" });
 ```
 
 - **For single error messages**:
-
 ```csharp
 Result<string> result = (400, "Single error message");
+```
+
+- **For success using Succeed method**:
+```csharp
+Result<string> result = Result<string>.Succeed("Is successful");
+```
+
+- **For error using Failure method**:
+- *One error message*:
+```csharp
+Result<string> result = Result<string>.Failure(500, "Is fail!");
+```
+
+- *Multiple error message*:
+```csharp
+Result<string> result = Result<string>.Failure(500, new List<string>() {"Is fail!", "Is not unique!"});
 ```
 
 ## Contributing
