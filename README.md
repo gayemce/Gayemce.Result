@@ -60,9 +60,19 @@ Result<string> result = Result<string>.Succeed("Is successful");
 Result<string> result = Result<string>.Failure(500, "Is fail!");
 ```
 
-- *Multiple error message*:
+- *One error message return 500 status code*:
+```csharp
+Result<string> result = Result<string>.Failure(500, "Is fail!"); //return 500 status code
+```
+
+- *Multiple error messages*:
 ```csharp
 Result<string> result = Result<string>.Failure(500, new List<string>() {"Is fail!", "Is not unique!"});
+```
+
+- *Multiple error messages return 500 status code*:
+```csharp
+Result<string> result = Result<string>.Failure(500, new List<string>() {"Is fail!", "Is not unique!"}); //return 500 status code
 ```
 
 ## Contributing

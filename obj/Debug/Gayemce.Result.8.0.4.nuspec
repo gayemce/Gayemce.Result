@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>Gayemce.Result</id>
-    <version>8.0.3</version>
+    <version>8.0.4</version>
     <title>Result Pattern</title>
     <authors>Gaye Tekin</authors>
     <license type="file">LICENSE</license>
